@@ -12,7 +12,7 @@ Compiled for MacOS Sierra.
 
 The appeal of the program is that you can start with a 80 step program, that will simplify itself down, over generations to a 25-step program that achieves the same goal. 
 
-It's interesting now because lots of work has been done in the area of Open Ended Evolution in the form of Artificial Life over the last five years. 
+It's interesting now because lots of work has been done in the area of [Open Ended Evolution](https://www.google.com.au/search?espv=2&q=+open+ended+evolution&oq=+open+ended+evolution) in the form of [Artificial Life](https://en.wikipedia.org/wiki/Artificial_life) over the last five years. 
 
 At the time, it was a logical step between [Core Wars](https://en.wikipedia.org/wiki/Core_War), and [Avida](https://en.wikipedia.org/wiki/Avida).  
 
