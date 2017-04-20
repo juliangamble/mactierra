@@ -1,9 +1,17 @@
+# Tierra for Macintosh
+
+Compiled for MacOS Sierra. 
+
+[Download HERE](https://github.com/juliangamble/mactierra/raw/master/MacTierra.zip). 
+
+![Screenshot of Tierra running on a Mac](https://github.com/juliangamble/mactierra/raw/master/Screenshot.png "Screenshot of Tierra running on a Mac")
+
+## About Tierra
+
+Tierra is a foundational step in the exploration of Artificial Life and genetic algorithms. In 1992 it demonstrated self-modifying programs 'evolving' and improving.  
 
 
-
-
-##About
------
+## About
 
 This is a Macintosh implementation of Tom Ray's Tierra: <http://life.ou.edu/tierra/>
 
@@ -14,8 +22,7 @@ This is a Mac OS X rewrite, with a platform-neutral engine, and a Cocoa front-en
 Please send bugs and feedback to Simon Fraser <smfr at smfr . org>
 
 
-##How to build
-------------
+## How to build
 
 Building requires Leopard (10.5.4) and Xcode 3.1 or later.
 
@@ -24,20 +31,17 @@ First, open Source/userinterface/cocoa/3rd party/GraphX/Source/Graph Suite.xcode
 Now open MacTierra.xcodeproj, choose the MacTierra target, and build (Release or Debug, as you wish; Release will run much faster).
 
 
-##Tips & Tricks
--------------
+## Tips & Tricks
 
 Use Command-Option-N to make a new, empty soup with mutation turned off.
 
 
-##Genebank
---------
+## Genebank
 
 MacTierra creates a "genebank" file at ~/Library/Application Support/MacTierra/Genebank.sql, in which it stores successful genotypes. You can view the genebank via the Window->Genebank menu item. Genotypes can be dragged into an empty soup to run them.
 
 
-##Version History
----------------
+## Version History
 
 0.8
     First release of Mac OS X version.
@@ -49,8 +53,7 @@ MacTierra creates a "genebank" file at ~/Library/Application Support/MacTierra/G
     New soup format; soup files not compatible with 0.8.
 
 
-##Known issues
-------------
+## Known issues
 
 Saving soups in XML format crashes sometimes (bug in boost serialization).
 Soups may not be compatible between 32- and 64-bit binaries.
