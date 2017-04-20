@@ -8,8 +8,13 @@ Compiled for MacOS Sierra.
 
 ## About Tierra
 
-Tierra is a foundational step in the exploration of Artificial Life and genetic algorithms. In 1992 it demonstrated self-modifying programs 'evolving' and improving.  
+[Tierra](https://en.wikipedia.org/wiki/Tierra_(computer_simulation)) is a foundational step in the exploration of Artificial Life and genetic algorithms. In 1992 it demonstrated self-modifying programs 'evolving' and improving.  
 
+The appeal of the program is that you can start with a 80 step program, that will simplify itself down, over generations to a 25-step program that achieves the same goal. 
+
+It's interesting now because lots of work has been done in the area of Open Ended Evolution in the form of Artificial Life over the last five years. 
+
+At the time, it was a logical step between [Core Wars](https://en.wikipedia.org/wiki/Core_War), and [Avida](https://en.wikipedia.org/wiki/Avida).  
 
 ## About
 
